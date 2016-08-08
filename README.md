@@ -47,8 +47,8 @@ A 4 month programming bootcamp with emphasis on the following:
 
 ## Experience
 
-**PKF Tax & Consulting, Bangkok, Thailand** (2015 to 2016)
-*International Tax Manager*
+**PKF Tax & Consulting, Bangkok, Thailand** (2015 to 2016)    
+*Manager - International Tax Team*  
 
 **Morgan Stanley, London, UK** (2011 to 2015)    
 *Manager - Liquidity Funding Control Team*  
