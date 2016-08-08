@@ -1,8 +1,12 @@
-## Paul Kenrick
+# Paul Kenrick
+
+[Profile](#profile) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
+
+## Profile
 
 As a recent graduate of the highly regarded Makers Academy in London, I am a junior full stack web developer.  I would love to join a team of talented developers from whom I can continue to learn and grow, and where I might be given the opportunity to contribute towards exciting projects.  My recently acquired skills are supported by project management, problem solving, and communication skills gained through 10 years of experience in finance and banking, as a Chartered Accountant.
 
-As a British-born Kiwi (born in Southport, UK but raised and educated in New Zealand), I was first bitten by the coding bug at Auckland University when, while undertaking my business degree, I was able to perform the first year of a computer science degree.  I did not have the opportunity to continue my computer science studies at the time, but never forgot how much I enjoyed the technical papers (mostly coding in Java).  Numerous times in the years since I attempted to teach myself further (mainly Java and Python), but with a busy job and little free time to practice, it was difficult to progress.  At the beginning of 2016 I left my job in finance to pursue my development career.
+As a British-born Kiwi (born in Southport, UK but raised and educated in New Zealand), I was first bitten by the coding bug at Auckland University when, while undertaking my business degree, I was able to perform the first year of a computer science degree.  I did not have the opportunity to continue my computer science studies at the time, but never forgot how much I enjoyed the technical papers (primarily coding in Java).  Numerous times in the years since I attempted to teach myself further (via online Java and Python courses), but with a busy job and little free time to practice, I did not progress.  At the beginning of 2016 I left my job in finance to pursue my development career.
 
 ## Skills
 
@@ -43,7 +47,7 @@ A 4 month programming bootcamp with emphasis on the following:
 
 #### Westlake Boys High School, Auckland, New Zealand (1996 to 2001)
 
-- 2001: "A" Grade Bursay
+- 2001: "A" Grade Bursary
 
 ## Experience
 
@@ -53,5 +57,5 @@ A 4 month programming bootcamp with emphasis on the following:
 **Morgan Stanley, London, UK** (2011 to 2015)    
 *Manager - Liquidity Funding Control Team*  
 
-**Deloite, Auckland, New Zealand** (2006 to 2010)   
+**Deloitte, Auckland, New Zealand** (2006 to 2010)   
 *Senior Tax Consultant*  
