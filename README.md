@@ -49,12 +49,12 @@ A 4 month programming bootcamp with emphasis on the following:
 
   Example projects: ToDoList, NewsSummariser, MakersBnB, Crowdcode, ShopPING
 
-  | Name      | Description                                                          | Tech
-  |-----------|----------------------------------------------------------------------|-------------------------------------------|
-  | ShopPING  | Shopping list app for iphone with location-based reminder function   |Javascript, JQuery, Ruby on Rails, Cordova |
-  | Crowdcode | Crowdsourcing website for obtaining developer time for new projects  |Javascript, JQuery, Ruby on Rails          |
-  | MakersBnB | Website for advertising and booking accomodation (similar to AirBnB) |Ruby on Rails                              |
-  | [ToDoList](https://github.com/pkenrick/to_do_list)  | Online todolist for managing tasks                                   |Javascript, JQuery                         |
+  | Name                                                   | Description                                                          | Tech                                      |
+  |--------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------|
+  | [ShopPING](https://github.com/pkenrick/shopPing.git)   | Shopping list app for iphone with location-based reminder function   |Javascript, JQuery, Ruby on Rails, Cordova |
+  | [Crowdcode](https://github.com/pkenrick/crowdcode.git) | Crowdsourcing website for obtaining developer time for new projects  |Javascript, JQuery, Ruby on Rails          |
+  | [MakersBnB](https://github.com/pkenrick/MakersBnB.git) | Website for advertising and booking accomodation (similar to AirBnB) |Ruby on Rails                              |
+  | [ToDoList](https://github.com/pkenrick/to_do_list)     | Online to do list for managing tasks                                 |Javascript, JQuery                         |
 
 #### Chartered Accountant Qualification, New Zealand (2006 to 2010)
 
