@@ -8,7 +8,7 @@ As a British-born Kiwi (born in Southport, UK but raised and educated in New Zea
 
 #### Communication
 
-I pride myself on my ability to communicate ideas clearly and concisely.  My experience has allowed me to develop proven communication skills, both written and verbal, to a diverse range of audiences including students, peers, clients, and senior management.  I have had many opportunities to make presentations to small and large audiences and am confident doing so.  Example of these include:
+My experience has allowed me to communicate ideas clearly and concisely, both written and verbal, to a diverse range of audiences including students, peers, clients, and senior management.  I have had many opportunities to make presentations to small and large audiences and am confident doing so.  Examples of such opportunities include:
 
 - Deloitte - writing and making regular presentations to tax department on current tax issues, leading training sessions for graduate consultants, leading both internal and client meetings;
 - Morgan Stanley - leading both local and global conference call discussions to communicate or gather information on current projects.
@@ -18,32 +18,38 @@ I pride myself on my ability to communicate ideas clearly and concisely.  My exp
 
 My experience (in particular at Morgan Stanley) was heavily project based, which required me to develop people, project and resource management skills, and the ability to drive problem solving initiatives.  During my time at Morgan Stanley my team implemented a large liquidity reporting project requiring input from all parts of the business, and people situated in cities across the UK, Europe and the US.  Such skills will be very useful in a development environment, and as a junior developer, for simply managing my own resources and task components.
 
-#### Self Starter
+#### Learn Independently
 
-My time at Morgan Stanley and at PKF International required jumping into the deep end.  As I result I have developed an ability (and even an enjoyment of) self-learning, and seeking out necessary resources to assist my learning, along with the ability to pick up knowledge quickly. These resources could be online materials, or other people in the firm with the knowledge I need.  I feel I have also learned the limits below which self-learning is useful, as opposed to when asking for assistance is the most efficient solution for the team as a whole.
+My time at Morgan Stanley and at PKF International required jumping into the deep end.  As I result I have developed an ability (and even an enjoyment of) self-learning, and seeking out necessary resources to assist my learning, along with the ability to pick up this knowledge quickly. These resources could be online materials, or other people in the firm with the knowledge I need.  I feel I have also learned the limits below which self-learning is useful, as opposed to when asking for assistance is the most efficient solution for the team as a whole.
 
 ## Education
 
-#### Makers Academy (May 2016 to August 2016)
+#### Makers Academy, London, UK (May 2016 to August 2016)
+A 4 month programming bootcamp with emphasis on the following:
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Chartered Accountant Qualification, New Zealand (2006 to 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- June 2010: Admitted as full member of Institute of Chartered Accountants of Australia and New Zealand
 
-#### Any other qualifications
+#### University of Auckland, Auckland, New Zealand (2002 to 2006)
+
+- Graduate Diploma in Commerce (major in Taxation) (Grade: Pass)
+- Bachelors Degree in Commerce (major in Accounting) (Grade: Pass)
+
+#### Westlake Boys High School, Auckland, New Zealand (1996 to 2001)
+
+- 2001: "A" Grade Bursay
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**PKF Tax & Consulting, Bangkok, Thailand**
+*International Tax Manager*
+**Morgan Stanley, London, UK** (2011 to 2015)    
+*Manager - Liquidity Funding Control Team*  
+**Deloite, Auckland, New Zealand** (2006 to 2010)   
+*Senior Tax Consultant*  
