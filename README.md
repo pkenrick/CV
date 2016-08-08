@@ -1,3 +1,6 @@
+Make skills section bullet points
+I enjoy building things.
+
 # Paul Kenrick
 
 [Profile](#profile) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
@@ -12,19 +15,27 @@ As a British-born Kiwi (born in Southport, UK but raised and educated in New Zea
 
 #### Communication
 
-My experience has allowed me to communicate ideas clearly and concisely, both written and verbal, to a diverse range of audiences including students, peers, clients, and senior management.  I have had many opportunities to make presentations to small and large audiences and am confident doing so.  Examples of such opportunities include:
-
-- Deloitte - writing and making regular presentations to tax department on current tax issues, leading training sessions for graduate consultants, leading both internal and client meetings;
-- Morgan Stanley - leading both local and global conference call discussions to communicate or gather information on current projects.
-- PKF International - holding meetings and conference calls with with non-native English-speakers required very clear and concise communication skills.
+Ability to communicate ideas clearly and concisely, both written and verbal, to a diverse range of audiences including students, peers, clients, and senior management. These include presentations to small and large audiences.  Past examples:
+  - presenting tax initiatives to Deloitte's tax department;
+  - training sessions for graduates;
+  - leading internal/client meetings;
+  - holding meetings with non-native english speakers (colleagues and clients) while at PKF in Thailand.
 
 #### Project Management
 
-My experience (in particular at Morgan Stanley) was heavily project based, which required me to develop people, project and resource management skills, and the ability to drive problem solving initiatives.  During my time at Morgan Stanley my team implemented a large liquidity reporting project requiring input from all parts of the business, and people situated in cities across the UK, Europe and the US.  Such skills will be very useful in a development environment, and as a junior developer, for simply managing my own resources and task components.
+My experience (in particular at Morgan Stanley) was heavily project based, allowing me to develop:
+  - people, project and resource management skills;
+  - ability to drive problem solving initiatives in a group.
+
+I anticipate the ability to self manage (project components, time and resources) will be hugely important for a junior developer.
 
 #### Independent Learning
 
-My time at Morgan Stanley and at PKF International required jumping into the deep end.  As I result I have developed an ability (and even an enjoyment of) self-learning, and seeking out necessary resources to assist my learning, along with the ability to pick up this knowledge quickly. These resources could be online materials, or other people in the firm with the knowledge I need.  I feel I have also learned the limits below which self-learning is useful, as opposed to when asking for assistance is the most efficient solution for the team as a whole.  My time at Makers has further strengthened these skills and has taught me to apply them to my new discipline.
+My time at Morgan Stanley and at PKF International required jumping into the deep end, resulting in:
+ - an enjoyment of self-learning
+ - am able to seek out necessary resources to assist my learning (bet they books online materials, or other people in the firm with the knowledge I need);
+ - ability to learn quickly in a fast-paced environment;
+ - knowing the limits below which self-learning is useful (sometimes asking for assistance is the most efficient solution for the team as a whole).
 
 ## Education
 
@@ -35,6 +46,8 @@ A 4 month programming bootcamp with emphasis on the following:
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js
 - Rspec, Capybara, Jasmine, Mocha
+
+  Example projects: ToDoList, NewsSummariser, MakersBnB, Crowdcode, ShopPING
 
 #### Chartered Accountant Qualification, New Zealand (2006 to 2010)
 
