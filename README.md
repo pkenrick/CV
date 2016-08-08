@@ -21,7 +21,7 @@ I was first bitten by the coding bug at Auckland University when, while undertak
 
 Ability to communicate ideas clearly and concisely, both written and verbal, to a diverse range of audiences including students, peers, clients, and senior management. These include presentations to small and large audiences.  Past examples:
   - presenting tax initiatives to Deloitte's tax department;
-  - training sessions for graduates;
+  - leading training sessions for graduates;
   - leading internal/client meetings;
   - holding meetings with non-native english speakers (colleagues and clients) while at PKF in Thailand.
 
@@ -57,7 +57,7 @@ A 4 month programming bootcamp with emphasis on the following:
   | ShopPING  | Shopping list app for iphone with location-based reminder function   |Javascript, JQuery, Ruby on Rails, Cordova |
   | Crowdcode | Crowdsourcing website for obtaining developer time for new projects  |Javascript, JQuery, Ruby on Rails          |
   | MakersBnB | Website for advertising and booking accomodation (similar to AirBnB) |Ruby on Rails                              |
-  | ToDoList  | Online todolist for managing tasks                                   |Javascript, JQuery                         |
+  | [ToDoList](*https://github.com/pkenrick/to_do_list)  | Online todolist for managing tasks                                   |Javascript, JQuery                         |
 
 #### Chartered Accountant Qualification, New Zealand (2006 to 2010)
 
