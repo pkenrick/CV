@@ -7,7 +7,9 @@ I enjoy building things.
 
 ## Profile
 
-As a recent graduate of the highly regarded Makers Academy in London, I am a junior full stack web developer.  I would love to join a team of talented developers from whom I can continue to learn and grow, and where I might be given the opportunity to contribute towards exciting projects.  My recently acquired skills are supported by project management, problem solving, and communication skills gained through 10 years of experience in finance and banking, as a Chartered Accountant.
+I am a former Chartered Accountant about to begin my true career as a full stack web developer.  As a recent graduate from the respected Makers Academy in London, I am hungry for more knowledge.  I would love to join a team from which I can continue to build my development skills, and where I might be given the opportunity to contribute towards exciting projects.  
+
+My recently acquired development skills are supported by 10 years of experience in finance and banking industry, where I developed my project management, problem solving, and communication skills, along with a knowledge of financial/accounting systems, financial products and taxation.
 
 As a British-born Kiwi (born in Southport, UK but raised and educated in New Zealand), I was first bitten by the coding bug at Auckland University when, while undertaking my business degree, I was able to perform the first year of a computer science degree.  I did not have the opportunity to continue my computer science studies at the time, but never forgot how much I enjoyed the technical papers (primarily coding in Java).  Numerous times in the years since I attempted to teach myself further (via online Java and Python courses), but with a busy job and little free time to practice, I did not progress.  At the beginning of 2016 I left my job in finance to pursue my development career.
 
@@ -33,8 +35,7 @@ I anticipate the ability to self manage (project components, time and resources)
 
 My time at Morgan Stanley and at PKF International required jumping into the deep end, resulting in:
  - an enjoyment of self-learning
- - am able to seek out necessary resources to assist my learning (bet they books online materials, or other people in the firm with the knowledge I need);
- - ability to learn quickly in a fast-paced environment;
+ - ability to seek out necessary resources to assist my learning (bet they books online materials, or other people in the firm with the knowledge I need);
  - knowing the limits below which self-learning is useful (sometimes asking for assistance is the most efficient solution for the team as a whole).
 
 ## Education
