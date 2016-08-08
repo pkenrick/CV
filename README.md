@@ -7,11 +7,13 @@ I enjoy building things.
 
 ## Profile
 
-I am a former Chartered Accountant about to begin my true career as a full stack web developer.  As a recent graduate from the respected Makers Academy in London, I am hungry for more knowledge.  I would love to join a team from which I can continue to build my development skills, and where I might be given the opportunity to contribute towards exciting projects.  
+I am a former Chartered Accountant about to begin my true career as a full stack web developer.  As a recent graduate from the well-respected Makers Academy in London, I am hungry for more knowledge.  I would love to join a team within which I can continue to learn, and where I might be given the opportunity to contribute towards exciting projects.  
 
-My recently acquired development skills are supported by 10 years of experience in finance and banking industry, where I developed my project management, problem solving, and communication skills, along with a knowledge of financial/accounting systems, financial products and taxation.
+My recently acquired development skills are supported by 10 years of experience in the finance industry, where I was able to develop my project management, problem solving, and communication skills.  Should they be of use in my next role, I also have a knowledge of financial/accounting systems, banking and financial products, and taxation.
 
-As a British-born Kiwi (born in Southport, UK but raised and educated in New Zealand), I was first bitten by the coding bug at Auckland University when, while undertaking my business degree, I was able to perform the first year of a computer science degree.  I did not have the opportunity to continue my computer science studies at the time, but never forgot how much I enjoyed the technical papers (primarily coding in Java).  Numerous times in the years since I attempted to teach myself further (via online Java and Python courses), but with a busy job and little free time to practice, I did not progress.  At the beginning of 2016 I left my job in finance to pursue my development career.
+As a British-born Kiwi (born in Southport, UK but raised and educated in New Zealand), I embody the laid-back Kiwi outlook on life, but maintain the drive required to work-hard, develop rapidly, and impress 'clients' (whether internal or external).   
+
+I was first bitten by the coding bug at Auckland University when, while undertaking my business degree, I was able to perform the first year of a computer science degree.  I did not have the opportunity to continue my computer science studies at the time, but never forgot how much I enjoyed the technical papers (primarily coding in Java).  Numerous times in the years since I attempted to teach myself further (via online Java and Python courses), but with a busy job and little free time to practice, I did not progress.  At the beginning of 2016 I left my job in finance to pursue my development career.
 
 ## Skills
 
@@ -49,6 +51,13 @@ A 4 month programming bootcamp with emphasis on the following:
 - Rspec, Capybara, Jasmine, Mocha
 
   Example projects: ToDoList, NewsSummariser, MakersBnB, Crowdcode, ShopPING
+
+  | Name      | Description                                                          | Tech
+  |-----------|----------------------------------------------------------------------|-------------------------------------------|
+  | ShopPING  | Shopping list app for iphone with location-based reminder function   |Javascript, JQuery, Ruby on Rails, Cordova |
+  | Crowdcode | Crowdsourcing website for obtaining developer time for new projects  |Javascript, JQuery, Ruby on Rails          |
+  | MakersBnB | Website for advertising and booking accomodation (similar to AirBnB) |Ruby on Rails                              |
+  | ToDoList  | Online todolist for managing tasks                                   |Javascript, JQuery                         |
 
 #### Chartered Accountant Qualification, New Zealand (2006 to 2010)
 
