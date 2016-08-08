@@ -18,9 +18,9 @@ My experience has allowed me to communicate ideas clearly and concisely, both wr
 
 My experience (in particular at Morgan Stanley) was heavily project based, which required me to develop people, project and resource management skills, and the ability to drive problem solving initiatives.  During my time at Morgan Stanley my team implemented a large liquidity reporting project requiring input from all parts of the business, and people situated in cities across the UK, Europe and the US.  Such skills will be very useful in a development environment, and as a junior developer, for simply managing my own resources and task components.
 
-#### Learn Independently
+#### Independent Learning
 
-My time at Morgan Stanley and at PKF International required jumping into the deep end.  As I result I have developed an ability (and even an enjoyment of) self-learning, and seeking out necessary resources to assist my learning, along with the ability to pick up this knowledge quickly. These resources could be online materials, or other people in the firm with the knowledge I need.  I feel I have also learned the limits below which self-learning is useful, as opposed to when asking for assistance is the most efficient solution for the team as a whole.
+My time at Morgan Stanley and at PKF International required jumping into the deep end.  As I result I have developed an ability (and even an enjoyment of) self-learning, and seeking out necessary resources to assist my learning, along with the ability to pick up this knowledge quickly. These resources could be online materials, or other people in the firm with the knowledge I need.  I feel I have also learned the limits below which self-learning is useful, as opposed to when asking for assistance is the most efficient solution for the team as a whole.  My time at Makers has further strengthened these skills and has taught me to apply them to my new discipline.
 
 ## Education
 
@@ -29,8 +29,8 @@ A 4 month programming bootcamp with emphasis on the following:
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Capybara, Jasmine, Mocha
 
 #### Chartered Accountant Qualification, New Zealand (2006 to 2010)
 
@@ -47,9 +47,11 @@ A 4 month programming bootcamp with emphasis on the following:
 
 ## Experience
 
-**PKF Tax & Consulting, Bangkok, Thailand**
+**PKF Tax & Consulting, Bangkok, Thailand** (2015 to 2016)
 *International Tax Manager*
+
 **Morgan Stanley, London, UK** (2011 to 2015)    
 *Manager - Liquidity Funding Control Team*  
+
 **Deloite, Auckland, New Zealand** (2006 to 2010)   
 *Senior Tax Consultant*  
