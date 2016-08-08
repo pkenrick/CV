@@ -1,6 +1,3 @@
-Make skills section bullet points
-I enjoy building things.
-
 # Paul Kenrick
 
 [Profile](#profile) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
