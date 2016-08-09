@@ -4,11 +4,11 @@
 
 ## Profile
 
-I am a former Chartered Accountant about to begin my true career as a full stack web developer.  As a recent graduate from the well-respected Makers Academy in London, I am hungry for more knowledge.  I would love to join a team within which I can continue to learn, and where I might be given the opportunity to contribute towards exciting projects.  
+I am a former Chartered Accountant eager to begin an exciting career as a full stack web developer.  As a recent graduate from the highly-regarded Makers Academy in London, I am hungry for more knowledge and challenges.
 
-My recently acquired development skills are supported by 10 years of experience in the finance industry, where I was able to develop my project management, problem solving, and communication skills.  Should they be of use in my next role, I also have a knowledge of financial/accounting systems, banking and financial products, and taxation.
+My recently acquired development skills are supported by communication, problem solving and project management skills gained from 10 years of experience in the finance industry.  I also have a knowledge of financial/accounting systems, banking and financial products, and taxation.
 
-As a British-born Kiwi (born in Southport, UK but raised and educated in New Zealand), I embody the laid-back Kiwi outlook on life, but maintain the drive required to work-hard, develop rapidly, and impress 'clients' (whether internal or external).   
+As a British-born Kiwi (born in Southport, UK but raised and educated in New Zealand), I embody the laid-back Kiwi outlook on life, but maintain the drive required to work-hard, learn rapidly, and impress my clients (whether internal or external).   
 
 I was first bitten by the coding bug at Auckland University when, while undertaking my business degree, I was able to perform the first year of a computer science degree.  I did not have the opportunity to continue my computer science studies at the time, but never forgot how much I enjoyed the technical papers (primarily coding in Java).  Numerous times in the years since I attempted to teach myself further (via online Java and Python courses), but with a busy job and little free time to practice, I did not progress.  At the beginning of 2016 I left my job in finance to pursue my development career.
 
@@ -34,7 +34,7 @@ I anticipate the ability to self manage (project components, time and resources)
 
 My time at Morgan Stanley and at PKF International required jumping into the deep end, resulting in:
  - an enjoyment of self-learning
- - ability to seek out necessary resources to assist my learning (bet they books online materials, or other people in the firm with the knowledge I need);
+ - ability to seek out necessary resources to assist my learning (be they books online materials, or other people in the firm with the knowledge I need);
  - knowing the limits below which self-learning is useful (sometimes asking for assistance is the most efficient solution for the team as a whole).
 
 ## Education
@@ -44,8 +44,11 @@ A 4 month programming bootcamp with emphasis on the following:
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
+- Pair programming
 - Ruby, Rails, Javascript, Node.js
 - Rspec, Capybara, Jasmine, Mocha
+- Agile methodologies
+- XP Values
 
   Example projects: ToDoList, NewsSummariser, MakersBnB, Crowdcode, ShopPING
 
@@ -79,3 +82,10 @@ A 4 month programming bootcamp with emphasis on the following:
 
 **Deloitte, Auckland, New Zealand** (2006 to 2010)   
 *Senior Tax Consultant*  
+
+## Interests
+
+- Coding! These days I spend much of my spare time fiddling with the projects I developed during my time at Makers, and coming up with new projects.
+- I'm passionate about health and fitness.
+- I love to play golf whenever I can.
+- Currently, I'm obsessed with London's street food scene.
