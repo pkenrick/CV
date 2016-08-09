@@ -4,7 +4,7 @@
 
 ## Profile
 
-I am a former Chartered Accountant eager to begin an exciting career as a full stack web developer.  As a recent graduate from the highly-regarded Makers Academy in London, I am hungry for more knowledge and challenges.
+I am a former Chartered Accountant eager to begin a career as a full stack web developer.  As a recent graduate from the highly-regarded Makers Academy in London, I am hungry for knowledge and challenges.
 
 My recently acquired development skills are supported by communication, problem solving and project management skills gained from 10 years of experience in the finance industry.  I also have a knowledge of financial/accounting systems, banking and financial products, and taxation.
 
