@@ -42,7 +42,7 @@ My time at Morgan Stanley and at PKF International required jumping into the dee
 #### Makers Academy, London, UK (May 2016 to August 2016)
 A 4 month programming bootcamp with emphasis on the following:
 
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
 - Pair programming
 - Ruby, Rails, Javascript, Node.js
